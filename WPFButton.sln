@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WPFButton", "WPFButton\WPFButton.vbproj", "{184BC3F5-2BF8-4259-AF6C-0205C127263D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WPFButtonTemplate", "WPFButtonTemplate\WPFButtonTemplate.vbproj", "{50CB14C9-6EFB-4184-B356-84489975911D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184BC3F5-2BF8-4259-AF6C-0205C127263D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184BC3F5-2BF8-4259-AF6C-0205C127263D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184BC3F5-2BF8-4259-AF6C-0205C127263D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184BC3F5-2BF8-4259-AF6C-0205C127263D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CB14C9-6EFB-4184-B356-84489975911D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CB14C9-6EFB-4184-B356-84489975911D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CB14C9-6EFB-4184-B356-84489975911D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CB14C9-6EFB-4184-B356-84489975911D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
